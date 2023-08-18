@@ -6,7 +6,7 @@
 <title>Rachel Lohan - Resume</title>
 </head>
 <body>
-  <link rel="stylesheet" href="styles profile.css">
+  
     <style>
       body {
         background-image: url("images/download.png");
