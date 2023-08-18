@@ -38,28 +38,6 @@
       <p>GitHub: <a href="https://github.com/rachel-lohan">github.com/rachel-lohan</a></p>
     </section>
   </div>
-  <script>
-    // Get a reference to the button
-    const changeColorButton = document.getElementById("changeColorButton");
-    
-    // Function to change the background color of the header
-    function changeHeaderColor() {
-      const header = document.querySelector("header");
-      header.style.backgroundColor = getRandomColor();
-    }
-    
-    // Generate a random color
-    function getRandomColor() {
-      const letters = "0123456789ABCDEF";
-      let color = "#";
-      for (let i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-      }
-      return color;
-    }
-    
-    // Add a click event listener to the button
-    changeColorButton.addEventListener("click", changeHeaderColor);
-  </script>
+  <a href={{ page.profile.html }}>{{ page.title }}</a>
 </body>
 </html>
