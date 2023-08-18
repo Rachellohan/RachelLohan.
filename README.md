@@ -6,6 +6,15 @@
 <title>Rachel Lohan - Resume</title>
 </head>
 <body>
+  <link rel="stylesheet" href="styles profile.css">
+    <style>
+      body {
+        background-image: url("images/download.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+      </style>
   <header>
     <h1>Rachel Lohan</h1>
     <p>Student at Georgia Tech</p>
