@@ -20,6 +20,7 @@
     <section class="section">
       <h2>Skills</h2>
       <ul>
+        <li>Revelant Courses: Data Structures and algorithms, Data Science and manipulation</li>
         <li>Programming languages: Java, Python, HTML/CSS, MySQL</li>
         <li>Web development: HTML, CSS, JavaScript, BootStrap</li>
         <li>Problem-solving and critical thinking</li>
