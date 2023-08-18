@@ -6,31 +6,22 @@
 <title>Rachel Lohan - Resume</title>
 </head>
 <body>
-  
-    <style>
-      body {
-        background-image: url("images/download.png");
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: 100% 100%;
-      }
-      </style>
   <header>
     <h1>Rachel Lohan</h1>
-    <p>Student at Georgia Tech</p>
+    <p>Computer Science Student at Georgia Tech</p>
   </header>
   <div class="container">
     <section class="section">
       <h2>Education</h2>
       <p>Georgia Institute of Technology</p>
       <p>Bachelor of Science in Computer Science</p>
-      <p>Expected Graduation: 20XX</p>
+      <p>Expected Graduation: 2026</p>
     </section>
     <section class="section">
       <h2>Skills</h2>
       <ul>
-        <li>Programming languages: Java, Python, HTML/CSS</li>
-        <li>Web development: HTML, CSS, JavaScript</li>
+        <li>Programming languages: Java, Python, HTML/CSS, MySQL</li>
+        <li>Web development: HTML, CSS, JavaScript, BootStrap</li>
         <li>Problem-solving and critical thinking</li>
       </ul>
     </section>
