@@ -33,7 +33,7 @@
     </section>
     <section class="section">
       <h2>Contact</h2>
-      <p>Email: rachel.lohan@example.com</p>
+      <p>Email: rlohan3@gatech.edu</p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/rachel-lohan">linkedin.com/in/rachel-lohan</a></p>
       <p>GitHub: <a href="https://github.com/rachel-lohan">github.com/rachel-lohan</a></p>
     </section>
